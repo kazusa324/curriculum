@@ -1,0 +1,6 @@
+（１）Macアドレス:AAAA.AAAA.AAAA
+　　　インターフェースID:A8AA.AAFF.FEAA.AAAA
+（２）Macアドレス:9876.5432.10FE
+　　　インターフェースID:9A76.54FF.FE32.10FE
+（３）Macアドレス:FFFF.FFFF.FFFF
+　　　インターフェースID:FDFF.FFFF.FEFF.FFFF
